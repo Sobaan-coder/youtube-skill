@@ -39,4 +39,4 @@ No prices or deals unless the owner has confirmed they're current.
 
 Shorts only, 15–30 seconds, vertical. Overhead shot of gloved hands building the food at the
 counter. First second shows the food. Ends on the cheese pull, the first bite, or the WhatsApp number.
-Language: TODO (English, Urdu or both?). Rhythm: 3 Shorts a week.
+Language: Urdu (spoken), Roman Urdu on-screen text, English food names. Rhythm: 3 Shorts a week.
