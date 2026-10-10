@@ -9,8 +9,13 @@ transcripts (or links + transcripts) of three of your own videos and say
 
 ## Who I am talking to
 
-TODO — one specific person, not "everyone". For example: "a first-time seller with a small online
-store who has made a few sales and doesn't know how to get the next hundred."
+A hungry local in Rawalpindi, within delivery distance of Sector-4 Airport Housing Society,
+scrolling Shorts in the evening and deciding what to order tonight. Not a global foodie audience.
+
+Business: Merchants (The Merchants: Pizza, Burger, Wraps), Gondal Plaza, near Hamza Shadi Hall,
+Sector-4 Airport Housing Society, Rawalpindi. WhatsApp orders: 03345553141.
+Menu: https://merchants-menu.netlify.app/
+Hero items: Crown Crust pizza, Duo Pizza, Zinger burger, Loaded Fries, Shawarma Platter.
 
 ## How I actually talk
 
@@ -27,10 +32,11 @@ TODO — your catchphrases, sign-on, sign-off.
 
 ## What I will not claim
 
-TODO — numbers you can't show, results that aren't yours, tools you haven't used. The skills will
-refuse these for you.
+No food or people that aren't real: show only real Merchants food, made in the Merchants kitchen.
+No prices or deals unless the owner has confirmed they're current.
 
 ## My format
 
-TODO — long-form, Shorts, or both; typical length; how a video opens; intro or not; on camera or
-voice-over; language(s); upload rhythm.
+Shorts only, 15–30 seconds, vertical. Overhead shot of gloved hands building the food at the
+counter. First second shows the food. Ends on the cheese pull, the first bite, or the WhatsApp number.
+Language: TODO (English, Urdu or both?). Rhythm: 3 Shorts a week.
